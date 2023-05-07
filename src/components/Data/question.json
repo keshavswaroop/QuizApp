@@ -1,0 +1,133 @@
+{
+  "questions" : [
+    {
+      "question" : "Which state/UT launched the ‘Adarsha Colony initiative’?",
+      "answers" : [
+        {
+          "answer" : "West Bengal",
+          "correct" : false
+        },
+        {
+          "answer" : "Assam",
+          "correct" : false
+        },
+        {
+          "answer" : "Odisha",
+          "correct" : true
+        },
+        {
+          "answer" : "Jharkhand",
+          "correct" : false
+        }
+      ]
+    },
+    {
+      "question" : "Which is the most innovative state as per the ‘National Manufacturing Innovation Survey (NMIS) 2021-22’?",
+      "answers" : [
+        {
+          "answer" : "West Bengal",
+          "correct" : false
+        },
+        {
+          "answer" : "Karnataka",
+          "correct" : true
+        },
+        {
+          "answer" : "Maharastra",
+          "correct" : false
+        },
+        {
+          "answer" : "Telangana",
+          "correct" : false
+        }
+      ]
+    },
+    {
+      "question" : "ndia launched the ‘NET Zero’ Innovation Virtual Centre with which country?",
+      "answers" : [
+        {
+          "answer" : "USA",
+          "correct" : false
+        },
+        {
+          "answer" : "UK",
+          "correct" : true
+        },
+        {
+          "answer" : "Australia",
+          "correct" : false
+        },
+        {
+          "answer" : "South Korea",
+          "correct" : false
+        }
+      ]
+    },
+    {
+      "question" : "Which one of the following river flows between Vindhyan and Satpura ranges?",
+      "answers" : [
+        {
+          "answer" : "Narmadha",
+          "correct" : true
+        },
+        {
+          "answer" : "Mahanadhi",
+          "correct" : false
+        },
+        {
+          "answer" : "Son",
+          "correct" : false
+        },
+        {
+          "answer" : "Netravathi",
+          "correct" : false
+        }
+      ]
+    },
+
+    {
+       
+      "question" : "The Central Rice Research Station is situated in?",
+      "answers" : [
+        {
+          "answer" : "Chennai",
+          "correct" : false
+        },
+        {
+          "answer" : "Cuttack",
+          "correct" : true
+        },
+        {
+          "answer" : "Bangalore",
+          "correct" : false
+        },
+        {
+          "answer" : "Quilon",
+          "correct" : false
+        }
+      ]
+    },
+    {
+      "question": "The metal whose salts are sensitive to light is?",
+      "answers": [
+        {
+          "answer": "Zinc",
+          "correct": false
+        },
+        {
+          "answer": "Silver",
+          "correct": true
+        },
+        {
+          "answer": "Copper",
+          "correct": false
+        },
+        {
+          "answer": "Aluminium",
+          "correct": false
+        }
+      ]
+    
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+.result-bar {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.result-circle {
+  position: relative;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.result-circle .result-number {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 48px;
+  font-weight: bold;
+  color: #444;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+.result-label {
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #444;
+}
